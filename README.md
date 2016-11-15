@@ -21,7 +21,6 @@ In summary, we:
 Tokenise the data into unigrams</br>
 Remove stop words from the dataset</br>
 Transform the unigrams to vector form by using the bag of words model</br>
-Apply tf-idf weighting transformation.</br>
 
 * passing Full Text to variable review
 ```s
