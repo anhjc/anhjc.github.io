@@ -4,7 +4,7 @@ HW8: LDAvis/README.md • Hsiang-Ju/LDAvis
 
 R package for interactive topic model visualization.
 
-![LDAvis icon](https://drive.google.com/file/d/0B8K7WlisIh3YYlF0M1BMcTg5SXM/view)
+![LDAvis icon](https://github.com/anhjc/anhjc.github.io/blob/master/pic1.jpg)
 
 
 ### Installing the package
