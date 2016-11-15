@@ -2,6 +2,11 @@
 
 HW8: LDAvis/README.md • Hsiang-Ju/LDAvis
 
+R package for interactive topic model visualization.
+
+![LDAvis icon](https://drive.google.com/file/d/0B8K7WlisIh3YYlF0M1BMcTg5SXM/view)
+
+
 ### Installing the package
 
 * Stable version on CRAN:
